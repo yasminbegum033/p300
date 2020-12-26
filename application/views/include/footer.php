@@ -185,15 +185,15 @@
 					 	 
 				   if(data=='YesA'){
 
-				   	window.location.replace("http://localhost/171-115-033/admin");
+				   	window.location.replace("http://localhost/p300/admin");
 
 				   }else if(data=='YesB'){
 
-				   	window.location.replace("http://localhost/171-115-033/company");
+				   	window.location.replace("http://localhost/p300/company");
 
 				   }else if(data=='YesC'){
 
-				   	window.location.replace("http://localhost/171-115-033/welcome");
+				   	window.location.replace("http://localhost/p300/welcome");
 
 				   }
 				   
